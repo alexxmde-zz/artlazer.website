@@ -1,0 +1,15 @@
+{
+    "parser": "babel-eslint",
+    "root": true,
+    "plugins": [
+      "babel",
+      "react",
+      "import"
+    ],
+    "env": {
+      "mocha": true,
+      "browser": true,
+      "node": true,
+      "es6": true
+    }
+}
